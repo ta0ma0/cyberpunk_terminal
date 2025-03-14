@@ -5,7 +5,14 @@ import os
 from dotenv import load_dotenv
 from random_convers import readfile
 import json
+import sys
 
+# Получаем абсолютный путь к директории, где находится скрипт
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+# Добавляем директорию в sys.path
+if dir_path not in sys.path:
+    sys.path.insert(0, dir_path)
 
 app = Flask(__name__)
 
