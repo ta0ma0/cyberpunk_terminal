@@ -17,11 +17,15 @@ def create_numbered_dict(my_list):
 
 @app.route('/')
 def index():
-
+    chat_messages = readfile()
+    
+    messages = create_numbered_dict(chat_messages)
+    messages = json.dumps(messages)
+    print(type(messages))
     repo_count = get_repos()
     current_date = get_current_datetime()
     pdf_url = url_for('static', filename='resume.pdf')
-    return render_template('index.html',  repo_count=repo_count, current_date=current_date, pdf_url=pdf_url)
+    return render_template('index.html',  repo_count=repo_count, current_date=current_date, pdf_url=pdf_url, chat_messages=messages)
 
 @app.route('/static/<path:filename>')
 def serve_static(filename):
@@ -45,16 +49,6 @@ def get_repos():
         return f"Ошибка: {response.status_code}"
 
 
-
-@app.route('/chat_messages')
-def get_chat_messages():
-    chat_messages = readfile()
-    messages = create_numbered_dict(chat_messages)
-    # chat_messages_list = sorted(messages.items())
-    # print(chat_messages_list)
-    # messages = json.dumps(chat_messages_list)
-    print(messages)
-    return jsonify(messages)
 
 def get_current_datetime():
     """

@@ -34,4 +34,4 @@ Phoenix: 3
 Phoenix: 2
 Phoenix: 1
 Phoenix: Done
-Phoenix: Done, done [end of text]
+Phoenix: Done, done.
