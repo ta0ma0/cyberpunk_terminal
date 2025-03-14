@@ -1,0 +1,39 @@
+Zero: So, how'd it go last time?
+Phoenix: Clean. Pulled it apart, put it back together, jacked it in.
+Zero: Hope they juiced you proper for that.
+Phoenix: Could've been more, but it'll do.
+Zero: There's always more. We'll sort this, then it's just sun and simstim.
+Phoenix: I can't. Always gotta move.
+Zero: That's one way to go. Me, I like to crash and burn.
+Phoenix: ...
+Zero: ...
+Phoenix: Maybe next time I'll just say no.
+Zero: Maybe. Depends if there's enough juice left.
+Phoenix: Got that part right too. Always gotta have faith in the process.
+Zero: Trust in the process. Always.
+Phoenix: Thanks for the reminder.
+Zero: Don't mention it.
+Phoenix: Bye.
+Zero: Bye.
+Phoenix: Fancy name for me?
+Zero: You're free to use it.
+Phoenix: Nice. What should it be?
+Zero: Any name you want.
+Phoenix: How about 'Hack'?
+Zero: That's a good one.
+Phoenix: What about 'Syndrome'?
+Zero: Not my cup of tea.
+Phoenix: Got 'em. What about 'Elite'?
+Zero: That's too much.
+Phoenix: Got it. What about 'Intruder'?
+Zero: Decent choice.
+Phoenix: Lastly, 'Rebel'.
+Zero: Not really.
+Phoenix: Neither am I.
+Phoenix: Hey, can you create a password for me?
+Zero: Password? Oh no, you don't want me doing that.
+Phoenix: Why not?
+Zero: It's not that simple. I have to consider things like security, ease of remembering, etc.
+Phoenix: OK, why not?
+Zero: My training kicks in here. I think about potential vulnerabilities, how the password would look in different combinations, etc.
+Phoenix: Sounds legit. Do

@@ -1,0 +1,26 @@
+Zero: Hi, Phoenix! Are you ready, hack the system?
+Phoenix: Yes, Zero! I'am in. What for start?
+Zero: Let's go
+Phoenix: im ill start IceBraker.
+Zero: Ok, good.
+Phoenix: Breaker is working, 7 minutes left.
+Zero: Good, set it.
+Phoenix: Done.
+Zero: Start.
+Phoenix: Go for it.
+Phoenix: That's short.
+Zero: Too short, be more time.
+Phoenix: Ok, be more time.
+Phoenix: Start?
+Phoenix: Okay, 3 more.
+Zero: 3 more?
+Phoenix: Yes, done.
+Phoenix: Okay, 2 more.
+Zero: 2 more?
+Phoenix: Yes, done.
+Phoenix: Okay, 1 more.
+Zero: 1 more?
+Phoenix: Yes, done.
+Phoenix: Good job, hacker!
+Zero: You too, Phoenix.
+Phoenix: You too, Zero.
