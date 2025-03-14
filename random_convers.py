@@ -1,7 +1,14 @@
 import os
 import random
+import sys
 
-convers_dir = 'hackers_conversations'
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+# Добавляем директорию в sys.path
+if dir_path not in sys.path:
+    sys.path.insert(0, dir_path)
+
+convers_dir = dir_path + '/hackers_conversations'
 
 def readfile():
     random_file = randomfile(convers_dir=convers_dir)
@@ -14,7 +21,7 @@ def readfile():
         # string = file.readline
     return convers_list
 
-    
+
 def randomfile(convers_dir):
     """
     Chooses a random file from the specified directory.
