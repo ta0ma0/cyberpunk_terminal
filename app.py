@@ -3,7 +3,6 @@ import requests
 from datetime import datetime
 import os
 from dotenv import load_dotenv
-from random_convers import readfile
 import json
 import sys
 
@@ -13,6 +12,9 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 # Добавляем директорию в sys.path
 if dir_path not in sys.path:
     sys.path.insert(0, dir_path)
+
+from random_convers import readfile
+
 
 app = Flask(__name__)
 
